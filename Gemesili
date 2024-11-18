@@ -1,0 +1,5 @@
+sudo apt install iwatch
+git clone https://github.com/farsider350/webhook.git
+cd https://discord.com/api/webhooks/1307871862092595210/zRE3e0wLbLgetFSo71JWXryp5zpGcecsqHtVEcsnKBbRE4WkZ0gcpiLB9qIz6wEv4p_J
+git checkout p2pool
+chmod a+x shareBlock.sh
